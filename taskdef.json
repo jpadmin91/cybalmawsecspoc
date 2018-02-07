@@ -12,13 +12,5 @@
 			"hostPort": 0
 		}],
 		"essential": true
-	}],
-	"tags": [
-
-		{
-			"Key": "Name",
-			"Value": "cybage_alm_bhargav_publicsubnet2"
-		}
-
-	]
+	}]
 }
