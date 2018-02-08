@@ -2,10 +2,11 @@
     "family": "cybage-alm-bhargav-TDF",
     "containerDefinitions": [
         {
-            "image": "543816070942.dkr.ecr.us-east-1.amazonaws.com/cybage-alm-bhargav-demoapp",
+            "image": "543816070942.dkr.ecr.us-east-1.amazonaws.com/cybage-alm-bhargav-fb-ecr",
             "name": "alm-cybage-bhargav-flappbird",
             "cpu": 10,
             "memory": 256,
+            "memoryReservation": 128,
             "essential": true,
             "portMappings": [
                 {
