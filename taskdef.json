@@ -1,9 +1,9 @@
 {
-    "family": "cybage-alm-bhargav-TDF",
+    "family": "cybage-alm-bhargav-taskdef",
     "containerDefinitions": [
         {
             "image": "543816070942.dkr.ecr.us-east-1.amazonaws.com/cybage-alm-bhargav-fb-ecr",
-            "name": "alm-cybage-bhargav-flappbird",
+            "name": "alm-cybage-bhargav-appdemo",
             "cpu": 10,
             "memory": 300,
             "memoryReservation": 128,
