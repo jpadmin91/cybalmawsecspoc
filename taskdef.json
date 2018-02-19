@@ -1,5 +1,5 @@
 {
-    "family": "cybage-alm-bhargav-taskdef",
+    "family": "cybagealm-jpfb-taskdef",
     "containerDefinitions": [
         {
             "image": "543816070942.dkr.ecr.us-east-1.amazonaws.com/cybage-alm-bhargav-demoapp-ec",
