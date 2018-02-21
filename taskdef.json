@@ -2,8 +2,8 @@
     "family": "cybagealm-jpfb-taskdef",
     "containerDefinitions": [
         {
-            "image": "543816070942.dkr.ecr.us-east-1.amazonaws.com/cybage-alm-bhargav-demoapp-ec",
-            "name": "alm-cybage-bhargav-appdemo",
+            "image": "543816070942.dkr.ecr.us-east-1.amazonaws.com/cybagealm-jpn-ecspoc-staging",
+            "name": "alm-cybage-jp-appdemo",
             "cpu": 10,
             "memory": 300,
             "memoryReservation": 128,
